@@ -1,5 +1,5 @@
 flask
 twilio
-openai
 python-dotenv
 pymongo
+google-generativeai

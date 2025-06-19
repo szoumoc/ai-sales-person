@@ -38,8 +38,8 @@ Setup Instructions
 4. Run the server
  uvicorn main:app --reload
 Twilio Webhooks Setup
-Voice Call: https://your-domain.com/call
-SMS Handler: https://your-domain.com/sms
+Voice Call: 
+SMS Handler: 
 Use ngrok for local testing.
 AI Agent Logic
 Uses Gemini AI to understand incoming messages or calls.
